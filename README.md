@@ -36,20 +36,20 @@ El teorema establece cómo escoger (para maximizar la transferencia de potencia)
 
 Se dice que Moritz von Jacobi fue el primero en descubrir este resultado, también conocido como Ley de Jacobi.
 
-6. DESCRIPCION DE PRERREQUISITOS
+5. DESCRIPCION DE PRERREQUISITOS
 
 La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS.
 El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
 
-7. DIAGRAMAS
+6. DIAGRAMAS
 
 ![Diagrama](https://user-images.githubusercontent.com/75337022/113023427-356f6680-914b-11eb-80fd-98eb2d47bf65.png)
 
-8. MATERIAL Y EQUIPO REQUERIDO
+7. MATERIAL Y EQUIPO REQUERIDO
 
 ![Material](https://user-images.githubusercontent.com/75337022/112920040-ca337f00-90cd-11eb-9757-d9d6f03e0ed8.png)
 
-9. PROCEDIMIENTO
+8. PROCEDIMIENTO
 
 ![Procedimiento _page-0001](https://user-images.githubusercontent.com/75337022/113028600-11168880-9151-11eb-9a94-866022e38002.jpg)
 
@@ -72,7 +72,7 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 ![Procedimiento _page-0010](https://user-images.githubusercontent.com/75337022/113028774-4c18bc00-9151-11eb-9b42-36a13bd24f10.jpg)
 
 
-10. PREGUNTAS
+9. PREGUNTAS
 
   ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
       
@@ -86,11 +86,11 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
     
         1200 Ω
 
-11. TABULACION DE DATOS
+10. TABULACION DE DATOS
 
 ![Tabulacion de datos](https://user-images.githubusercontent.com/75337022/113023596-6ea7d680-914b-11eb-9580-931c4fe19888.png)
 
-12. CALCULOS
+11. CALCULOS
 
 ![Calculos Potencia RL_page-0001](https://user-images.githubusercontent.com/75337022/113027450-b892bb80-914f-11eb-8dcc-fe01174799b0.jpg)
 
@@ -104,7 +104,7 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 
 ![Calculos Potencia RL_page-0006](https://user-images.githubusercontent.com/75337022/113027543-d52ef380-914f-11eb-8039-9a8717346bca.jpg)
 
-13. CONCLUSIONES
+12. CONCLUSIONES
 
 	- Podemos afirmar que, si la carga aplicada es menor que la resistencia de Thévenin, la potencia transferida a la cara se reduce con rapidez a medida     que se hace más           pequeña 
  	
@@ -112,9 +112,9 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 	
   	- Cabe tomar en cuenta que cualquier potencia suministrada por la fuente que no llega a la carga se pierde en la resistencia de Thévenin lo que es muy     importante               para la aplicación del teorema
 
-14. BIBLIOGRAFIAS
+13. BIBLIOGRAFIAS
 
 
-15. ANEXOS
+14. ANEXOS
 
 
