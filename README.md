@@ -1,5 +1,5 @@
 # Guia-8
-                                  Teorema de la Máxima Transferencia de Potencia 
+                                                Teorema de la Máxima Transferencia de Potencia 
                                   
 1. OBJETIVOS
     
