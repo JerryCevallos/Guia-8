@@ -106,11 +106,11 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 
 12. CONCLUSIONES
 
-	- Podemos afirmar que, si la carga aplicada es menor que la resistencia de Thévenin, la potencia transferida a la cara se reduce con rapidez a medida     que se hace más           pequeña 
+	- Podemos afirmar que, si la carga aplicada es menor que la resistencia de Thévenin, la potencia transferida a la cara se reduce con rapidez a medida que se hace más               pequeña 
  	
-	- La potencia total suministrada por una fuente como V_TH es absorbida tanto por la resistencia equivalente de Thévenin como por la resistencia de         carga 
+	- La potencia total suministrada por una fuente como V_TH es absorbida tanto por la resistencia equivalente de Thévenin como por la resistencia de carga 
 	
-  	- Cabe tomar en cuenta que cualquier potencia suministrada por la fuente que no llega a la carga se pierde en la resistencia de Thévenin lo que es muy     importante               para la aplicación del teorema
+  	- Cabe tomar en cuenta que cualquier potencia suministrada por la fuente que no llega a la carga se pierde en la resistencia de Thévenin lo que es muy importante                   para la aplicación del teorema
 
 13. BIBLIOGRAFIAS
 
@@ -120,10 +120,31 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 	• Análisis de circuitos y sistemas lineales, Máxima Transferencia de potencia extraído de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
 	
 	
-	• Electrónica Lugo, Proyectos de Circuitos, Eléctrica y Electrónica, Teorema de Máxima transferencia de Potencia recuperado de: https://electronicalugo.com/teorema-                maximo-de-transferencia-de-energia/
-
+	• Electrónica Lugo, Proyectos de Circuitos, Eléctrica y Electrónica, Teorema de Máxima transferencia de Potencia 
+	   recuperado de: https://electronicalugo.com/teorema-maximo-de-transferencia-de-energia/
 
 
 14. ANEXOS
+
+![Anexos _page-0001](https://user-images.githubusercontent.com/75337022/113031971-ededd800-9154-11eb-9e1f-51016f5e0576.jpg)
+
+![Anexos _page-0002](https://user-images.githubusercontent.com/75337022/113032005-f8a86d00-9154-11eb-9833-45b896ef789f.jpg)
+
+![Anexos _page-0003](https://user-images.githubusercontent.com/75337022/113032084-11b11e00-9155-11eb-9e0a-98d6a6c51c54.jpg)
+
+![Anexos _page-0004](https://user-images.githubusercontent.com/75337022/113032168-2a213880-9155-11eb-9a63-4c40cdcdcddc.jpg)
+
+![Anexos _page-0005](https://user-images.githubusercontent.com/75337022/113032235-3d340880-9155-11eb-8823-47396f0386ff.jpg)
+
+![Anexos _page-0006](https://user-images.githubusercontent.com/75337022/113032280-4ae98e00-9155-11eb-9abd-a6ebbfd5fde6.jpg)
+
+![Anexos _page-0007](https://user-images.githubusercontent.com/75337022/113032309-58067d00-9155-11eb-987f-3f6292e95e00.jpg)
+
+![Anexos _page-0008](https://user-images.githubusercontent.com/75337022/113032331-62287b80-9155-11eb-89ab-8de97f9cf8a8.jpg)
+
+![Anexos _page-0009](https://user-images.githubusercontent.com/75337022/113032358-69e82000-9155-11eb-9c48-712886a37ad8.jpg)
+
+![Anexos _page-0010](https://user-images.githubusercontent.com/75337022/113032400-72d8f180-9155-11eb-95d9-0d80421ab753.jpg)
+
 
 
