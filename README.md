@@ -29,17 +29,63 @@ Para el circuito del diagrama, obtenga la potencia para cada valor de carga most
 
 
 4. EXPLICACION 
-5. DESCRIPCION DE PRERREQUISITOS
-6. DIAGRAMAS 
-7. MATERIAL Y EQUIPO REQUERIDO
+
+El teorema de máxima transferencia de potencia establece que, dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente. También este ayuda a encontrar el teorema de Thevenin y Norton.
+
+El teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario. Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
+
+Se dice que Moritz von Jacobi fue el primero en descubrir este resultado, también conocido como Ley de Jacobi.
+
+6. DESCRIPCION DE PRERREQUISITOS
+
+La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS.
+El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
+7. DIAGRAMAS
+
+![Diagrama](https://user-images.githubusercontent.com/75337022/113023427-356f6680-914b-11eb-80fd-98eb2d47bf65.png)
+
+8. MATERIAL Y EQUIPO REQUERIDO
 
 ![Material](https://user-images.githubusercontent.com/75337022/112920040-ca337f00-90cd-11eb-9757-d9d6f03e0ed8.png)
 
-8. PROCEDIMIENTO 
-10. TABULACION DE DATOS
-11. CALCULOS Y ERRORES
-12. CONCLUSIONES
-13. BIBLIOGRAFIAS
-14. ANEXOS
+9. PROCEDIMIENTO
+
+
+
+10. PREGUNTAS
+
+  ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+      
+      El teorema no se cumple ya que las resistencias son variables y se debe cumplir siempre que la R_L sea igual a la R_TH
+   
+   ¿Cuál fue la potencia máxima en RL?  
+        
+        RL=1000   P=0.046Watts
+        
+   ¿Para qué valor de RL se obtiene la MTP?  
+    
+        1200 Ω
+
+11. TABULACION DE DATOS
+
+![Tabulacion de datos](https://user-images.githubusercontent.com/75337022/113023596-6ea7d680-914b-11eb-9580-931c4fe19888.png)
+
+12. CALCULOS Y ERRORES
+
+
+
+13. CONCLUSIONES
+
+	- Podemos afirmar que, si la carga aplicada es menor que la resistencia de Thévenin, la potencia transferida a la cara se reduce con rapidez a medida     que se hace más           pequeña 
+ 	
+	- La potencia total suministrada por una fuente como V_TH es absorbida tanto por la resistencia equivalente de Thévenin como por la resistencia de         carga 
+	
+  - Cabe tomar en cuenta que cualquier potencia suministrada por la fuente que no llega a la carga se pierde en la resistencia de Thévenin lo que es muy     importante para la       aplicación del teorema
+
+14. BIBLIOGRAFIAS
+
+
+15. ANEXOS
 
 
