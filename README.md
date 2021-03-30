@@ -71,7 +71,7 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 
 ![Tabulacion de datos](https://user-images.githubusercontent.com/75337022/113023596-6ea7d680-914b-11eb-9580-931c4fe19888.png)
 
-12. CALCULOS Y ERRORES
+12. CALCULOS
 
 ![Calculos Potencia RL_page-0001](https://user-images.githubusercontent.com/75337022/113027450-b892bb80-914f-11eb-8dcc-fe01174799b0.jpg)
 
