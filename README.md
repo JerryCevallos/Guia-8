@@ -73,7 +73,17 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 
 12. CALCULOS Y ERRORES
 
+![Calculos Potencia RL_page-0001](https://user-images.githubusercontent.com/75337022/113027450-b892bb80-914f-11eb-8dcc-fe01174799b0.jpg)
 
+![Calculos Potencia RL_page-0002](https://user-images.githubusercontent.com/75337022/113027474-be889c80-914f-11eb-84b2-2a0c8b5ecb7b.jpg)
+
+![Calculos Potencia RL_page-0003](https://user-images.githubusercontent.com/75337022/113027490-c3e5e700-914f-11eb-9f84-13dcdbaf0718.jpg)
+
+![Calculos Potencia RL_page-0004](https://user-images.githubusercontent.com/75337022/113027507-c9433180-914f-11eb-82ef-3bf1efb42f7d.jpg)
+
+![Calculos Potencia RL_page-0005](https://user-images.githubusercontent.com/75337022/113027520-cea07c00-914f-11eb-810f-59164c485485.jpg)
+
+![Calculos Potencia RL_page-0006](https://user-images.githubusercontent.com/75337022/113027543-d52ef380-914f-11eb-8039-9a8717346bca.jpg)
 
 13. CONCLUSIONES
 
@@ -81,7 +91,7 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
  	
 	- La potencia total suministrada por una fuente como V_TH es absorbida tanto por la resistencia equivalente de Thévenin como por la resistencia de         carga 
 	
-  - Cabe tomar en cuenta que cualquier potencia suministrada por la fuente que no llega a la carga se pierde en la resistencia de Thévenin lo que es muy     importante para la       aplicación del teorema
+  	- Cabe tomar en cuenta que cualquier potencia suministrada por la fuente que no llega a la carga se pierde en la resistencia de Thévenin lo que es muy     importante               para la aplicación del teorema
 
 14. BIBLIOGRAFIAS
 
