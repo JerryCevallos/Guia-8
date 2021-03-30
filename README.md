@@ -51,6 +51,25 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 
 9. PROCEDIMIENTO
 
+![Procedimiento _page-0001](https://user-images.githubusercontent.com/75337022/113028600-11168880-9151-11eb-9a94-866022e38002.jpg)
+
+![Procedimiento _page-0002](https://user-images.githubusercontent.com/75337022/113028622-17a50000-9151-11eb-91e5-2924f53d3bb8.jpg)
+
+![Procedimiento _page-0003](https://user-images.githubusercontent.com/75337022/113028641-1d9ae100-9151-11eb-9ea3-fb11edadc2d5.jpg)
+
+![Procedimiento _page-0004](https://user-images.githubusercontent.com/75337022/113028660-24c1ef00-9151-11eb-8ca7-b4c40b497511.jpg)
+
+![Procedimiento _page-0005](https://user-images.githubusercontent.com/75337022/113028676-2b506680-9151-11eb-9180-3e58a3eac93b.jpg)
+
+![Procedimiento _page-0006](https://user-images.githubusercontent.com/75337022/113028700-31dede00-9151-11eb-9af0-451b9e00dce9.jpg)
+
+![Procedimiento _page-0007](https://user-images.githubusercontent.com/75337022/113028719-37d4bf00-9151-11eb-998d-a9e055af47fb.jpg)
+
+![Procedimiento _page-0008](https://user-images.githubusercontent.com/75337022/113028739-3f946380-9151-11eb-867e-a32d21086a00.jpg)
+
+![Procedimiento _page-0009](https://user-images.githubusercontent.com/75337022/113028755-458a4480-9151-11eb-9830-f956c1dc5866.jpg)
+
+![Procedimiento _page-0010](https://user-images.githubusercontent.com/75337022/113028774-4c18bc00-9151-11eb-9b42-36a13bd24f10.jpg)
 
 
 10. PREGUNTAS
