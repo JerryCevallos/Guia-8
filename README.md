@@ -114,6 +114,15 @@ El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de 
 
 13. BIBLIOGRAFIAS
 
+	• Circuitos, Teorema de Máxima Transferencia de Potencia recuperado de: https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+	
+
+	• Análisis de circuitos y sistemas lineales, Máxima Transferencia de potencia extraído de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
+	
+	
+	• Electrónica Lugo, Proyectos de Circuitos, Eléctrica y Electrónica, Teorema de Máxima transferencia de Potencia recuperado de: https://electronicalugo.com/teorema-                maximo-de-transferencia-de-energia/
+
+
 
 14. ANEXOS
 
